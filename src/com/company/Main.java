@@ -12,7 +12,7 @@ public class Main {
 	else if(age < 20 & temp > 0 & temp < 28){
         System.out.println(name + " может сегодня гулять");
     }
-	else if (age > 45 & age > -10 & temp < 25){
+	else if (age > 45 & temp > -10 & temp < 25){
         System.out.println(name + "может сегодня гулять");
     }
 	else {
